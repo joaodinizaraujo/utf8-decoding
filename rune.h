@@ -2,6 +2,7 @@
 #define RUNE_H
 
 #include <stdint.h>
+#include <stddef.h>
 
 typedef int32_t Rune;
 typedef struct {

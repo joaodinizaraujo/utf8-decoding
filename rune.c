@@ -1,3 +1,4 @@
+#include <stddef.h>
 #include "rune.h"
 
 #define E_EMPTY_INPUT "empty input"
